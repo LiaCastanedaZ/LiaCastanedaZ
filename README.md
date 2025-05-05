@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💬 Previously @LiaCastaneda (account got locked)
+💬 Previously [@LiaCastaneda](https://github.com/LiaCastaneda) (account got locked)
 
 <!--
 **LiaCastanedaZ/LiaCastanedaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
